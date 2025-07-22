@@ -1,0 +1,11 @@
+ipykernel
+pydantic
+typing
+
+langchain
+langchain-core
+langchain-community
+langgraph
+
+python-dotenv
+langchain-groq
