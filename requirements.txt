@@ -2,8 +2,8 @@ ipykernel
 pydantic
 typing
 
-langchain
 langchain-core
+langchain
 langchain-community
 langgraph
 
